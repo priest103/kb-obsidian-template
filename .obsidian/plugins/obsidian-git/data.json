@@ -25,6 +25,6 @@
   "setLastSaveToLastCommit": true,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": true,
+  "showFileMenu": false,
   "autoCommitMessage": "vault backup: {{date}}"
 }
