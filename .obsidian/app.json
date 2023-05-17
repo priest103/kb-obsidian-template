@@ -2,5 +2,6 @@
   "useTab": false,
   "spellcheck": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showInlineTitle": false
 }
