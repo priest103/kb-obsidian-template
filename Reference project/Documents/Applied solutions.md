@@ -2,4 +2,4 @@
 
 ## Common
 
-- https://stackoverflow.com/a/46545530
+- How to randomize (shuffle) a JavaScript array: https://stackoverflow.com/a/46545530
