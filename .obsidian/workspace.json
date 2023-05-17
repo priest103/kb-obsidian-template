@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Reference project/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Reference project/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Reference project/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Readme.md"
+                "file": "Reference project/Readme.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
-    "Reference project/Readme.md",
     "Personal/Documents/Software/Obsidian.md",
+    "Personal/Documents/Checklists/Vacation.md",
+    "Personal/Readme.md",
+    "Reference project/Readme.md",
     "Reference project",
     "attachments/Pasted image 20230412204140.png",
     "attachments/Pasted image 20230512000456.png",
@@ -169,11 +171,9 @@
     "attachments/Pasted image 20230511232841.png",
     "attachments/Pasted image 20230511232749.png",
     "attachments/Pasted image 20230511232715.png",
-    "Personal/Documents/Checklists/Vacation.md",
     "Personal/Documents/Software",
     "Personal/Education/dotnet/Book - Richter.md",
     "Personal/Documents/Checklists",
-    "Personal/Readme.md",
     "Personal/Education/dotnet",
     "Personal/Education",
     "Personal/Notes",
