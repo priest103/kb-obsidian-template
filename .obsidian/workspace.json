@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/dotnet/Book - Richter.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/dotnet/Book - Richter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/dotnet/Book - Richter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Readme.md"
+                "file": "Personal/Education/dotnet/Book - Richter.md"
               }
             }
           }
@@ -154,14 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "286e414d0a68aa16",
+  "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Personal/Readme.md",
+    "Personal/Education/dotnet/Book - Richter.md",
     "Personal/Education/dotnet",
     "Personal/Education",
     "Personal/Notes",
     "Personal/Documents",
     "templates/Standard page.md",
-    "Personal/Readme.md",
     "Personal",
     "attachments",
     "Readme.md",
