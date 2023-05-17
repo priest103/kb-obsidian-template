@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference project/Readme.md",
+                "file": "Reference project/Documents/Applied solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference project/Readme.md",
+                "file": "Reference project/Documents/Applied solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference project/Readme.md",
+                "file": "Reference project/Documents/Applied solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference project/Readme.md"
+                "file": "Reference project/Documents/Applied solutions.md"
               }
             }
           }
@@ -156,10 +156,12 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Reference project/Readme.md",
+    "Reference project/Documents/Applied solutions.md",
+    "Reference project/Documents",
     "Personal/Documents/Software/Obsidian.md",
     "Personal/Documents/Checklists/Vacation.md",
     "Personal/Readme.md",
-    "Reference project/Readme.md",
     "Reference project",
     "attachments/Pasted image 20230412204140.png",
     "attachments/Pasted image 20230512000456.png",
@@ -181,7 +183,6 @@
     "templates/Standard page.md",
     "Personal",
     "attachments",
-    "Readme.md",
-    "templates"
+    "Readme.md"
   ]
 }
