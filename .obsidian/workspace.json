@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Standard page.md",
+                "file": "Personal/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Standard page.md",
+                "file": "Personal/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Standard page.md",
+                "file": "Personal/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Standard page.md"
+                "file": "Personal/Readme.md"
               }
             }
           }
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "286e414d0a68aa16",
+  "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "templates/Standard page.md",
+    "Personal/Readme.md",
     "Personal",
     "attachments",
     "Readme.md",
-    "templates/Standard page.md",
     "templates",
     "scripts"
   ]
