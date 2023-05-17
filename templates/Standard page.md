@@ -6,7 +6,7 @@
 
 ## Usage
 
-... :
+Free-form usage description.
 
 - ... ;
 - ... .
