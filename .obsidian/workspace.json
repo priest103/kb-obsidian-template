@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Education/Readme.md",
+                "file": "Personal/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Education/Readme.md",
+                "file": "Personal/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Education/Readme.md",
+                "file": "Personal/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Education/Readme.md"
+                "file": "Personal/Readme.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
-    "Pasted image 20230518094216.png",
-    "Personal/Readme.md",
     "Personal/Education/Readme.md",
+    "attachments/Pasted image 20230518094434.png",
+    "Personal/Readme.md",
+    "Pasted image 20230518094216.png",
     "Reference project/Documents/Planning/New release.md",
     "Reference project/Documents/Planning/New release diagram.svg",
     "Personal/Documents/Software/Obsidian.md",
@@ -185,8 +186,6 @@
     "attachments/Pasted image 20230511234825.png",
     "attachments/Pasted image 20230511234737.png",
     "attachments/Pasted image 20230511235233.png",
-    "attachments/Pasted image 20230511232841.png",
-    "attachments/Pasted image 20230511232749.png",
     "Personal/Documents/Software",
     "Personal/Education/dotnet/Book - Richter.md",
     "Personal/Documents/Checklists",
