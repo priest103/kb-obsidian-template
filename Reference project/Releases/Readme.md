@@ -3,7 +3,7 @@
 ## Statistics
 
 ```expander
-path: Releases
+path: Releases -Releases
 <% const {PlatformStats} = customJS %>
 <%= PlatformStats.buildStatsTable(it.files) %>
 ```

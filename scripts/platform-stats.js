@@ -13,6 +13,7 @@ class PlatformStats {
 
             // Extract platform and status information
             const platforms = match[1].split(", ");
+            console.log(page.content.match(/- Status: (.*)\n/));
             const status = page.content.match(/- Status: (.*)\n/)[1];
             statusSet.add(status);
 
