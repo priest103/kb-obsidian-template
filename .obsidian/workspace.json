@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Release X.md",
+                "file": "Reference project/Releases/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Release X.md",
+                "file": "Reference project/Releases/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Release X.md",
+                "file": "Reference project/Releases/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Release X.md"
+                "file": "Reference project/Releases/Readme.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
     "Reference project/Releases/0.0.1.0.md",
+    "Reference project/Releases/1.0.0.0.md",
+    "Reference project/Releases/0.0.2.0.md",
+    "templates/Release X.md",
     "Personal/Documents/Software/Obsidian.md",
     "Personal/Readme.md",
     "Reference project/Documents/Planning/New release.md",
@@ -167,9 +170,6 @@
     "Pasted image 20230518094216.png",
     "Reference project/Documents/Planning",
     "Reference project/Releases/Readme.md",
-    "Reference project/Releases/1.0.0.0.md",
-    "Reference project/Releases/0.0.2.0.md",
-    "templates/Release X.md",
     "scripts/platform-stats.js",
     "scripts/tree-structure.js",
     "Reference project/Releases",
