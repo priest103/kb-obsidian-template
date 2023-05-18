@@ -4,6 +4,6 @@
 
 - Release date: 2023-05-XX
 - Country: YY
-- Type: 
+- Type: Test
 - Link: ZZ
 - Status: Waiting
