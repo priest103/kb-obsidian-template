@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "templates/Release X.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "templates/Release X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "templates/Release X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "templates/Release X.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Readme.md",
+    "templates/Release X.md",
     "Reference project/Documents/Applied solutions.md",
     "Reference project/Readme.md",
     "Reference project/Documents",
@@ -182,7 +184,6 @@
     "Personal/Documents",
     "templates/Standard page.md",
     "Personal",
-    "attachments",
-    "Readme.md"
+    "attachments"
   ]
 }
