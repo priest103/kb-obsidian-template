@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Documents/Software/Obsidian.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Documents/Software/Obsidian.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Documents/Software/Obsidian.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Documents/Software/Obsidian.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Personal/Documents/Software/Obsidian.md",
     "Personal/Readme.md",
     "Personal/Education/Readme.md",
     "attachments/Pasted image 20230518094434.png",
     "Pasted image 20230518094216.png",
     "Reference project/Documents/Planning/New release.md",
     "Reference project/Documents/Planning/New release diagram.svg",
-    "Personal/Documents/Software/Obsidian.md",
     "Reference project/Documents/Planning",
     "Reference project/Releases/Readme.md",
     "Reference project/Releases/0.0.1.0.md",
