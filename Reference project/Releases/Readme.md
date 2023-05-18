@@ -10,8 +10,8 @@ path: Releases -Releases
 
 | Platform | Released | Planned | Total |
 | :---: | :---: | :---: | :---: |
-| iOS | 1 | 1 | **2** |
+| iOS | 1 | 2 | **3** |
 | Android | 2 | 0 | **2** |
-| **Total** | **3** | **1** | **4** |
+| **Total** | **3** | **2** | **5** |
 
 ---
