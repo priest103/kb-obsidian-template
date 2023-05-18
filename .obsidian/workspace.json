@@ -11,7 +11,7 @@
             "id": "df3d7bdae8352a70",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "diagram-edit",
               "state": {
                 "file": "Reference project/Documents/Planning/New release diagram.svg"
               }
@@ -154,14 +154,14 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Reference project/Documents/Planning/New release.md",
+    "Reference project/Documents/Planning/New release diagram.svg",
     "Personal/Documents/Software/Obsidian.md",
     "Readme.md",
     "Personal/Readme.md",
     "Personal/Education/Readme.md",
     "attachments/Pasted image 20230518094434.png",
     "Pasted image 20230518094216.png",
-    "Reference project/Documents/Planning/New release.md",
-    "Reference project/Documents/Planning/New release diagram.svg",
     "Reference project/Documents/Planning",
     "Reference project/Releases/Readme.md",
     "Reference project/Releases/0.0.1.0.md",
