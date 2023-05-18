@@ -33,7 +33,7 @@ class PlatformStats {
         }
 
         // Create table header
-        let table = "| Platform |";
+        let table = "\n| Platform |";
         for (const status of statusSet) {
             table += ` ${status} |`;
         }
