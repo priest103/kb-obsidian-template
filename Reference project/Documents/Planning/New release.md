@@ -2,4 +2,4 @@
 
 ## Hint
 
-- Some notes on
+- Some notes on how to plan
