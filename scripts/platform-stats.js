@@ -58,7 +58,7 @@ class PlatformStats {
         }
 
         // Create total row
-        table += "| Total |";
+        table += "| **Total** |";
         let totalTotal = 0;
         for (const status of statusSet) {
             const count = total.get(status) || 0;
