@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference project/Releases/0.0.2.0.md",
+                "file": "Reference project/Releases/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference project/Releases/0.0.2.0.md",
+                "file": "Reference project/Releases/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference project/Releases/0.0.2.0.md",
+                "file": "Reference project/Releases/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference project/Releases/0.0.2.0.md"
+                "file": "Reference project/Releases/Readme.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
     "Reference project/Releases/0.0.1.0.md",
+    "Reference project/Releases/1.0.0.0.md",
     "Reference project/Releases/0.0.2.0.md",
     "Reference project/Releases/Readme.md",
     "templates/Release X.md",
     "scripts/platform-stats.js",
     "scripts/tree-structure.js",
-    "Reference project/Releases/1.0.0.0.md",
     "Reference project/Releases",
     "templates/Standard page.md",
     "Readme.md",
