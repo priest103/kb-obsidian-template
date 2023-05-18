@@ -156,6 +156,8 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "scripts/platform-stats.js",
+    "scripts/tree-structure.js",
     "Reference project/Releases/0.0.1.0.md",
     "Reference project/Releases/1.0.0.0.md",
     "templates/Release X.md",
@@ -185,7 +187,6 @@
     "Personal/Education/dotnet",
     "Personal/Education",
     "Personal/Notes",
-    "Personal/Documents",
-    "Personal"
+    "Personal/Documents"
   ]
 }
