@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df3d7bdae8352a70",
+  "active": "286e414d0a68aa16",
   "lastOpenFiles": [
     "templates/Release X.md",
     "Reference project/Releases/Readme.md",
