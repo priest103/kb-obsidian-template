@@ -1,48 +1,72 @@
-class TreeStructure {
-    generateTreeStructure(arr) {
-        let result = '';
-        let folders = {};
+class PlatformStats {
+    buildStatsTable(pages) {
+        const platformSet = new Set(["iOS", "Android"]);
+        const statusSet = new Set();
+        const stats = new Map();
 
-        // Iterate through the array and group files by folders
-        arr.forEach((item) => {
-            let path = item.path.split('/');
-            let basename = path.pop();
-            let currentFolder = folders;
+        // Iterate over all pages and update stats accordingly
+        for (const page of pages) {
+            const match = page.content.match(/- Platforms: (.*)\n/);
+            if (!match) {
+                continue;
+            }
 
-            path.forEach((folder) => {
-                currentFolder[folder] = currentFolder[folder] || {};
-                currentFolder = currentFolder[folder];
-            });
+            // Extract platform and status information
+            const platforms = match[1].split(", ");
+            const status = page.content.match(/- Status: (.*)\n/)[1];
+            statusSet.add(status);
 
-            currentFolder[basename] = item;
-        });
-
-        // Recursively build the tree structure using string manipulation
-        function buildTree(folder, indent) {
-            let output = '';
-            Object.keys(folder).forEach((key) => {
-                if (folder[key].path) {
-                    if (folder[key].basename !== 'Readme') {
-                        output += `${indent}- 📜 [${folder[key].basename}](${encodeURI(folder[key].path).split('/').slice(1).join('/')})\n`;
-                    }
-                } else {
-                    if (folder[key]['Readme.md']?.path) {
-                        output += `${indent}- 📂 [${key}](${encodeURI(folder[key]['Readme.md'].path).split('/').slice(1).join('/')})\n`;
-                    } else {
-                        output += `${indent}- 📂 ${key}\n`;
-                    }
-                    output += buildTree(folder[key], indent + '    ');
+            // Update stats for each platform and status
+            for (const platform of platforms) {
+                if (!platformSet.has(platform)) {
+                    continue;
                 }
-            });
-            return output;
+                if (!stats.has(platform)) {
+                    stats.set(platform, new Map());
+                }
+                const platformStats = stats.get(platform);
+                if (!platformStats.has(status)) {
+                    platformStats.set(status, 0);
+                }
+                platformStats.set(status, platformStats.get(status) + 1);
+            }
         }
 
-        // Call the recursive function with the top-level folders
-        Object.keys(folders).forEach((key) => {
-            result += `- 📦 ${key}\n`;
-            result += buildTree(folders[key], '    ');
-        });
+        // Create table header
+        let table = "| Platform |";
+        for (const status of statusSet) {
+            table += ` ${status} |`;
+        }
+        table += " Total |\n|";
+        for (let i = 0; i < statusSet.size + 2; i++) {
+            table += " :---: |";
+        }
+        table += "\n";
 
-        return result;
+        // Create table body
+        const total = new Map();
+        for (const platform of platformSet) {
+            table += `| ${platform} |`;
+            let platformTotal = 0;
+            for (const status of statusSet) {
+                const count = stats.has(platform) && stats.get(platform).has(status) ? stats.get(platform).get(status) : 0;
+                platformTotal += count;
+                total.set(status, (total.get(status) || 0) + count);
+                table += ` ${count} |`;
+            }
+            table += ` **${platformTotal}** |\n`;
+        }
+
+        // Create total row
+        table += "| Total |";
+        let totalTotal = 0;
+        for (const status of statusSet) {
+            const count = total.get(status) || 0;
+            totalTotal += count;
+            table += ` **${count}** |`;
+        }
+        table += ` **${totalTotal}** |\n`;
+
+        return table;
     }
 }
