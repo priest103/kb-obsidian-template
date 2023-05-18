@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Release date: 2023-05-XX
+- Release date: {{date:YYYY-MM-DD}}
 - Country: YY
 - Type: Alpha
 - Status: Planned
