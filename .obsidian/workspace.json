@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Readme.md",
+                "file": "Personal/Education/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Readme.md"
+                "file": "Personal/Education/Readme.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Personal/Readme.md",
+    "Personal/Education/Readme.md",
     "Reference project/Documents/Planning/New release.md",
     "Reference project/Documents/Planning/New release diagram.svg",
     "Personal/Documents/Software/Obsidian.md",
@@ -174,7 +176,6 @@
     "Reference project/Readme.md",
     "Reference project/Documents",
     "Personal/Documents/Checklists/Vacation.md",
-    "Personal/Readme.md",
     "Reference project",
     "attachments/Pasted image 20230412204140.png",
     "attachments/Pasted image 20230512000456.png",
