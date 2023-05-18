@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference project/Releases/1.0.0.0.md",
+                "file": "Reference project/Releases/0.0.1.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference project/Releases/1.0.0.0.md",
+                "file": "Reference project/Releases/0.0.1.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference project/Releases/1.0.0.0.md",
+                "file": "Reference project/Releases/0.0.1.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference project/Releases/1.0.0.0.md"
+                "file": "Reference project/Releases/0.0.1.0.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "df3d7bdae8352a70",
   "lastOpenFiles": [
+    "Reference project/Releases/1.0.0.0.md",
     "Reference project/Releases/0.0.1.0.md",
     "templates/Release X.md",
-    "Reference project/Releases/1.0.0.0.md",
     "Reference project/Releases",
     "templates/Standard page.md",
     "Readme.md",
