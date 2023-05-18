@@ -8,4 +8,4 @@
 
 ### Ground rules
 
-![[Reference project/Documents/Planning/Untitled Diagram.svg]]
+![](New%20release%20diagram.svg)
